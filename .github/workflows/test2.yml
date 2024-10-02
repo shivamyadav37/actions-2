@@ -1,4 +1,4 @@
-name: Test Project Name Changing
+name: Test Project 
 
 on: [push,workflow_dispatch]
 
